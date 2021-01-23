@@ -1,0 +1,7 @@
+name: SCodeB13
+version: "1.0"
+main: net.sadcenter.guilds.LastCore
+author: sadcenter
+website: "LASTCORE.PL"
+depend:
+  - ProtocolLib
